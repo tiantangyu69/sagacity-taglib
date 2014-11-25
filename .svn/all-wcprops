@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/baseweb/!svn/ver/5/jSagacity-taglib
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/baseweb/!svn/ver/6/jSagacity-taglib/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/baseweb/!svn/ver/6/jSagacity-taglib/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/baseweb/!svn/ver/6/jSagacity-taglib/pom.xml
+END
